@@ -9,5 +9,7 @@ tags:
   - LiFi
   - IPS
 ---
-## IoRL projet 
+## IoRL project
+
+![kickoffmeeting_iorl.jpg]({{site.baseurl}}/_posts/kickoffmeeting_iorl.jpg)
 

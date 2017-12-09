@@ -1,5 +1,5 @@
 # Site settings
-title: zhang xun 
+title: zhang xun 张迅
 SEOTitle: zhang xun | ISEP
 header-img: img/post-bg-desk.jpg
 email: zhangxun0501@gmail.com
@@ -37,7 +37,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-#gems: [jekyll-paginate]
+gems: [jekyll-paginate]
 
 
 
@@ -54,7 +54,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: zhangxun
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings

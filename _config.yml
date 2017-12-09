@@ -3,8 +3,8 @@ title: zhang xun 张迅
 SEOTitle: zhang xun | ISEP
 header-img: img/post-bg-desk.jpg
 email: zhangxun0501@gmail.com
-description: "Check check"
-keyword: "BY, BY Blog, zhangxun , iOS, Apple, iPhone"
+#description: "Check check"
+keyword: "zhangxun , iOS, Apple, iPhone"
 url: "http://zhangxun0501.github.io"          # your host, for absolute URL
 #baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhangxun0501/zhangxun0501.github.io.git" # you code repository

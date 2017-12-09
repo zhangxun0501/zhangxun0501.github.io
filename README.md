@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # BY xun zhang
+=======
+# BY test
+>>>>>>> 31e9b1d599b468557d96d7cd61bb27b5649a9b54
 
 > 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
 > 

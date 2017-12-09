@@ -1,5 +1,12 @@
 ---
 published: true
+layout: post
+subtitle: github 技术
+date: {}
+author: ZX
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags: null
 ---
 ---
 layout:     post                    # 使用的布局（不需要改）

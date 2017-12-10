@@ -2,7 +2,7 @@
 published: true
 layout: post
 subtitle: 摘抄一则学习方法，建议读博士的学生看看
-date: {}
+date: 2017-12-10T21:11:00.000Z
 author: Zx
 header-img: img/post-bg-debug.jpg
 catalog: true

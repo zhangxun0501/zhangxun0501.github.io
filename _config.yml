@@ -12,7 +12,7 @@ github_repo: "https://github.com/zhangxun0501/zhangxun0501.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-#sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ID2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -83,4 +83,3 @@ featured-condition-size: 0           # 相同标签数量大于这个数，才�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-

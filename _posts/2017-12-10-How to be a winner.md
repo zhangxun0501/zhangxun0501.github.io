@@ -1,5 +1,16 @@
 ---
 published: false
+layout: post
+subtitle: 摘抄一则学习方法，建议读博士的学生看看
+date: {}
+author: Zx
+header-img: img/post-bg-debug.jpg
+catalog: true
+tags:
+  - PhD
+  - Research
+  - 摘抄
+  - 学习方法
 ---
 
 
@@ -92,5 +103,3 @@ Often you'll run into a subtask with no single, obviously right solution. If sol
 Learn to solve your own problems
 
 In general, in life, there won't always be someone to turn to who has all the answers. It is vitally important that you learn how to tackle all the kinds of problems you may encounter. Use your supervisors as a crutch or scaffolding only to get yourself started. Watch them and learn not just the answers they help you find, but how they find the answers you were unable to obtain on your own. Strive for independence. Learn techniques and gain confidence in your own ability to solve problems now.
-
-

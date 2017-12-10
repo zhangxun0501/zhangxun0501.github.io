@@ -20,7 +20,6 @@ tags:
 
 View this page in Romanian courtesy of Jan Rolsky, Polish courtesy of Nick Stasov, Czech courtesy of Valeria Aleksandrova, Kazakh courtesy of John Vorohovsky, Swedish courtesy of Daniela Milton, Indonesian courtesy of Jordan Silaen.
 
-[N.B.: Observations and recommendations based on first being a UROP student at MIT and later supervising numerous UROP students at MIT and undergraduates and graduate students at UCB.]
 
 ### Don't get hung up trying to understand everything at the outset
 

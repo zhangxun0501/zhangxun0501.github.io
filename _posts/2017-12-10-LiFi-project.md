@@ -1,5 +1,4 @@
 ---
-
 published: true
 layout: post
 subtitle: 'LiFi, Project, LiFi lab'
@@ -10,7 +9,6 @@ tags:
   - LiFi
   - VLC
   - LED
-  
 ---
 
 ##  Android/IOS indoor location application based on Visible Light Communication technology
@@ -24,5 +22,3 @@ This internship will follow these steps:
  1. Study and compare different VLC algorithms, choose an appropriate algorithm. 
  2. Android indoor location application development
  3. VLC based Human sensing system design
-
-

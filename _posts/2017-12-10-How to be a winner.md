@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 subtitle: 摘抄一则学习方法，建议读博士的学生看看
 date: {}

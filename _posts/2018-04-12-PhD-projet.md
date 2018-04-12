@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 subtitle: 'VLC, LiFi, PhD'
 author: ZX

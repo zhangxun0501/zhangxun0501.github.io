@@ -31,20 +31,27 @@ The main topics the researcher will tackle within the project are:
 •	Innovation roadmap from research idea to product
 
 
-Required skills:  
+## Required skills:  
 •	Telecommunication: wireless communication, FPGA, OFDM, Digital communication  
 •	Knowledge on algorithm 
 •	Computing architecture: instruction set architecture, memory hierarchy, vector architecture, etc..  
 •	Collaboration between design team and compiler team  
 
-Working Plan
+## Working Plan
+
 We are looking to recruit a highly motivated Master student to apply Chinese CSC scholarship and to to develop an optimized VLC receiver system with MIMO technology. He/she will interact with both circuit design and telecommunication teams to propose an efficient architecture and software tools. More precisely, he/she will: 
 •	Perform a bibliography on potential applications and dedicated programming languages.  
 •	Develop system-level testbenches to evaluate speed and power enhancements compared to existing  solutions.  
 •	Interact with UK partner (Brunel university) and Chinese Partner (Tsinghua university) who works on VLC design in order to finely understand the multifunctional  Visible Light Communication concept.  
-Bio of PhD director and supervisor:
-PhD Director： Andrei VLADIMIRESCU
+
+## Bio of PhD director and supervisor:
+
+_PhD Director： Andrei VLADIMIRESCU_
+
 Andrei Vladimirescu is a key contributor to the SPICE program development at the University of California, Berkeley. His main contributions include the SPICE 2G6 release, on which leading commercial versions like HSPICE are based, a parallel SPICE called CLASSIE for Single-Instruction Multiple-Data (SIMD) architectures and the design of a SPICE HW accelerator. Andrei is the author of the leading text on circuit simulation, The SPICE Book, published by J. Wiley and Sons. As R&D director in the EDA industry he conceived and managed the development of analog/mixed-signal tools at Daisy, Analog Design Tools, Valid and Cadence. He is currently a professor at UC Berkeley and Institut Superieur d’Electronique de Paris (ISEP)
 
-PhD supervisor： Xun ZHANG
+
+_PhD supervisor： Xun ZHANG_
+
+
 Dr. Xun Zhang, who obtained a B.E. degree from Wuhan university of technology,  an M.E. degree from Université Marrie Pierre Curie in 2005, and PhD from Nancy university in 2009.  He obtained a Post-Doc fellowship of Motorola Foundation in IETR/SCEE at Supélec in 2010.  He is currently employed as an associate professor in MINARC team of the laboratory  at the Institut Supérieur d’Electronique de Paris (ISEP). His research activities involve algorithm implementation optimization for Visible Light Communication (VLC) and Feedback Systems Control for sleep apnea. He initiated and was strongly involved in a successful project on VLC with Tsinghua University with Professor Jian Song team. The project was granted 4 years funding from both China and France. During this project, he organized a workshop on the VLC in September 2015 and Special Session in ISCAS 2016. He is now working with an international consortium to submit a Horizon 2020 project. He is author and co-author of 20 conference papers, 3 journals, and 2 book chapters. He also co-chaired special sessions in IEEE international conferences (NEWCAS, FTFC).

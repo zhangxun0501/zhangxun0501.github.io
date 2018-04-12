@@ -1,5 +1,14 @@
 ---
 published: false
+layout: post
+subtitle: 'VLC, LiFi, PhD'
+author: ZX
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+  - VLC
+  - LiFi
+  - PhD
 ---
 
 
@@ -39,5 +48,3 @@ Andrei Vladimirescu is a key contributor to the SPICE program development at the
 
 PhD supervisor： Xun ZHANG
 Dr. Xun Zhang, who obtained a B.E. degree from Wuhan university of technology,  an M.E. degree from Université Marrie Pierre Curie in 2005, and PhD from Nancy university in 2009.  He obtained a Post-Doc fellowship of Motorola Foundation in IETR/SCEE at Supélec in 2010.  He is currently employed as an associate professor in MINARC team of the laboratory  at the Institut Supérieur d’Electronique de Paris (ISEP). His research activities involve algorithm implementation optimization for Visible Light Communication (VLC) and Feedback Systems Control for sleep apnea. He initiated and was strongly involved in a successful project on VLC with Tsinghua University with Professor Jian Song team. The project was granted 4 years funding from both China and France. During this project, he organized a workshop on the VLC in September 2015 and Special Session in ISCAS 2016. He is now working with an international consortium to submit a Horizon 2020 project. He is author and co-author of 20 conference papers, 3 journals, and 2 book chapters. He also co-chaired special sessions in IEEE international conferences (NEWCAS, FTFC).
-
-

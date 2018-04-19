@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: zhangxun0501@gmail.com
 description: "xun ZHANG, 张迅blog"
 keyword: "zhangxun , iOS, Apple, iPhone"
-url: "http://zhangxun0501.github.io"          # your host, for absolute URL
+url: "http://zhang-xun.com"          # your host, for absolute URL
 #baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhangxun0501/zhangxun0501.github.io.git" # you code repository
 
@@ -53,12 +53,6 @@ kramdown:
 # Disqus settings（https://disqus.com/）
 #disqus_username: xun_zhang
 
-# 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
-# Duoshuo settings
-# duoshuo_username: qiubaiying
-# Share component is depend on Comment so we can NOT use share only.
-# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-
 
 
 
@@ -77,7 +71,6 @@ kramdown:
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 0           # 相同标签数量大于这个数，才会出现在首页
-
 
 
 # Progressive Web Apps

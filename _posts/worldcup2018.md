@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-subtitle: 'Live, World Cup, football '
+subtitle: 'Live,World Cup, football'
 author: ZX
 header-img: img/post-bg-debug.png
 catalog: true

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 subtitle: 'Live,World Cup, football'
 author: ZX
